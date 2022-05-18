@@ -1,1 +1,1 @@
-# python-tkinter-gui
+Simple login page using tkinter
